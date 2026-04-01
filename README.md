@@ -1,4 +1,4 @@
-# 🛠 Electronic Component Library
+# Electronic Component Library
 
 A collaborative collection of electronic components in `.step` format for 3D design and PCB integration. 
 
@@ -36,7 +36,7 @@ A collaborative collection of electronic components in `.step` format for 3D des
 | **MT3608 Step-up** | Power/Chargers | [MT3608.step](./Power_Management/Charger_modules/MT3608-stepup-converter.step) | - |
 | **TP4056 HW-373** | Power/Chargers | [TP4056.stp](./Power_Management/Charger_modules/TP4056--HW-373.stp) | - |
 | **BMP388 Breakout** | Sensors/Environmental | [BMP388.step](./Sensors/Environmental/Adafruit%20BMP388%20Breakout.step) | - |
-| **BME280 Module** | Sensors/Environmental | [BME280.step](./Sensors/Environmental/Bme280 Module.STEP) | - |
+| **BME280 Module** | Sensors/Environmental | [BME280.step](./Sensors/Environmental/Bme280%20Module.STEP) | - |
 | **DHT11** | Sensors/Environmental | [DHT11.step](./Sensors/Environmental/DHT11.STEP) | - |
 | **MQ-2 Gas Sensor** | Sensors/Environmental | [MQ-2.step](./Sensors/Environmental/MQ-2.step) | - |
 | **Gyro GY-521** | Sensors/Motion | [GY-521.step](./Sensors/Motion_Inertial/GyroSensor_GY_521.step) | - |
